@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: 04_Observability
+
+logging:
+ level:
+  root: INFO
